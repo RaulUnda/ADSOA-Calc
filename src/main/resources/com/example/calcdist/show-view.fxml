@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.calcdist.show.Controller_Show">
+   <children>
+      <Label fx:id="lbl_txt" layoutX="131.0" layoutY="128.0" prefHeight="36.0" prefWidth="338.0" text="El resultado de la operación es:">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="lbl_rslt" layoutX="243.0" layoutY="168.0" prefHeight="65.0" prefWidth="114.0" text="Label">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

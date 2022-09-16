@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.calcdist.Central_Node.Controller_Central">
+   <children>
+      <Label fx:id="lbl_op" layoutX="160.0" layoutY="173.0" prefHeight="51.0" prefWidth="55.0" />
+      <Label fx:id="lbl_num1" layoutX="273.0" layoutY="173.0" prefHeight="51.0" prefWidth="55.0" />
+      <Label fx:id="lbl_num2" layoutX="407.0" layoutY="175.0" prefHeight="51.0" prefWidth="55.0" />
+   </children>
+</AnchorPane>
